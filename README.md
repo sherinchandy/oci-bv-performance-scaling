@@ -1,6 +1,6 @@
 # OCI Block Volume Elastic Performance Scaling.
 
-OCI Block Volume has the feature of elastic performance scaling without any down time. This feature helps to scaleup and scaledown block volume performance as and when needed to meet varying workload demands and save cost during off peak workload hours. We are leveraring the Block Volume Elastic performance feature[1].
+OCI Block Volume has the feature of elastic performance scaling without any down time. This feature helps to scaleup and scaledown block volume performance as and when needed to meet varying workload demands and save cost during off peak workload hours. We are leveraring the Block Volume Elastic performance feature: https://docs.cloud.oracle.com/en-us/iaas/Content/Block/Concepts/blockvolumeelasticperformance.htm
 
 ## Services and Features Used:
 
